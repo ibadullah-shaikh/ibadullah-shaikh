@@ -8,5 +8,4 @@
 #### Skills and Experience
 - 💻 HTML, CSS, WordPress, C, C++, Python
 
-[![Ibadullah's github activity graph](https://activity-graph.herokuapp.com/graph?username=ibadullah-shaikh&theme=dracula)](https://github.com/ibadullah-shaikh/github-readme-activity-graph)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ibadullah-shaikh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ibadullah-shaikh-0599bb1a9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ibiishaikh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/i.ibadshaikh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ibadshaikh20)  
