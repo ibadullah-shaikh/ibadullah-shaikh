@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - Senior QA Engineer at **Folio3 Pvt. Ltd**
-- Experienced in **Automation, Web, API, and Database Testing**
+- Experienced in **Automation, Web, Mobile, API, and Database Testing**
 - Skilled in building **automation frameworks and CI/CD integrations**
 - Passionate about improving software quality and test efficiency
 
@@ -18,14 +18,35 @@
 
 ## 🛠 Skills
 
-**Automation & Testing:**  
-Selenium, Cypress, BDD, JMeter, PyWinAuto
+### Automation & Testing
+- Selenium
+- Cypress
+- Appium (Mobile Automation)
+- BDD
+- JMeter
+- PyWinAuto
 
-**Tools:**  
-JIRA, Postman, BurpSuite, OWASP ZAP
+### Tools
+- JIRA
+- Postman
+- BurpSuite
+- OWASP ZAP
 
-**Programming:**  
-Python, C-Sharp, Java, C, C++
+### Programming
+- Python
+- C#
+- Java
+- C
+- C++
+
+---
+
+## 📱 Mobile Automation
+
+- Automated **Android and iOS applications using Appium**
+- Experience testing **mobile applications using Appium framework**
+- Integrated automation with **CI/CD pipelines**
+- Designed reusable **test automation frameworks**
 
 ---
 
