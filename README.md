@@ -1,11 +1,43 @@
-### Hi there 👋, I'm Ibadullah Shaikh, Computer Science student at FAST- Nuces, Karachi.
+<h1 align="center">Hi 👋, I'm Ibadullah Shaikh</h1>
+<h3 align="center">Senior QA Automation Engineer</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibadullah-shaikh&show_icons=true)  
+📍 Karachi, Pakistan  
+📧 ibadullahshaikh9@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ibadullah-shaikh/)
 
-- 🔭 I’m currently working on Front-End Web Development 
-- 🌱 I’m currently learning React JS 
+---
 
-#### Skills and Experience
-- 💻 HTML, CSS, WordPress, C, C++, Python
+## 👨‍💻 About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ibadullah-shaikh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ibadullah-shaikh-0599bb1a9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ibiishaikh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/i.ibadshaikh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ibadshaikh20)  
+- Senior QA Engineer at **Folio3 Pvt. Ltd**
+- Experienced in **Automation, Web, API, and Database Testing**
+- Skilled in building **automation frameworks and CI/CD integrations**
+- Passionate about improving software quality and test efficiency
+
+---
+
+## 🛠 Skills
+
+**Automation & Testing:**  
+Selenium, Cypress, BDD, JMeter, PyWinAuto
+
+**Tools:**  
+JIRA, Postman, BurpSuite, OWASP ZAP
+
+**Programming:**  
+Python, C-Sharp, Java, C, C++
+
+---
+
+## 🚀 Projects
+
+- **Ingenius Prep Platform** – Automated Web UI, API, and DB testing and reduced manual testing by 80%.
+- **E-commerce Data Automation** – Scraped product data and generated automated reports for clients.
+- **Hospital Data Automation System** – Extracted and processed patient data using OCR and automation.
+
+---
+
+## 🏆 Achievements
+
+🥇 Winner – **AI Hackathon (QA Track)**  
+🥈 Runner Up – **Testing Titans, Tech Summit 2024**
